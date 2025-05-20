@@ -51,7 +51,7 @@ public class UserController {
     @Autowired
     private IUserArticleLikeService userArticleLikeService;
     private static final String userName = "2041741256@qq.com";
-    private static final String password = "aoiphkykfwzocdcc";  //密钥
+    private static final String password = "*****************";  //密钥
     private static final String nickName = "LXBlogger";
     MiniEmailFactory miniEmailFactory;
     @Autowired
