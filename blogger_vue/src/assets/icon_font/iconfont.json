@@ -1,0 +1,30 @@
+{
+  "id": "4895504",
+  "name": "LXBloger",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "595349",
+      "name": "评论",
+      "font_class": "user-comment-post",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10937697",
+      "name": "赞",
+      "font_class": "user-likes-post",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "18729666",
+      "name": "转发 分享",
+      "font_class": "user-share-post",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}
