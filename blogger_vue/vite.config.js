@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd())
 
   // 后端地址
-  const API_HOST = env.VITE_API_HOST || 'http://10.23.111.25:99'
+  const API_HOST = env.VITE_API_HOST || '你所在的ipv4地址'
 
   return {
     plugins: [vue()],
